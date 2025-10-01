@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Aula teste de github"?>
+    <?php 
+        echo "Aula teste de github";
+        $escola = "IF Guarulhos";
+        echo "Escola ".$escola;
+    ?>
 </body>
 </html>
